@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> Please let us know how we can serve you !!!!!!!</h2>
+	<h2> Thank you Ibrahim for your time. Truly appreciate your patient !!!!!!!</h2>
   
 </body>
 </html>
