@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> Welcome to my cooking business !!!!!!!</h2>
+	<h2> Please let us know how we can serve you !!!!!!!</h2>
   
 </body>
 </html>
